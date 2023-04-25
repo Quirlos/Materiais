@@ -2,7 +2,7 @@
 Esse repositório PÚBLICO tem o objetivo de guardar datasheets importantes sobre os materiais que usamos.
 
 
-# Lista de conexões dos componentes
+# Lista de conexões dos componentes ![Última atualização](https://img.shields.io/github/last-commit/HumaMaquina/Materiais?label=Última%20atualização&style=flat&color=blue&labelColor=grey&logo=github&logoColor=white&date_format=DD%2FMM%2FYY%20-%20HH%3A%MM%20%28UTC%29)
 
 Sujeita a mudanças:
 
