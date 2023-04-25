@@ -11,7 +11,7 @@ Sujeita a mudanças:
 |Encoder|TB6612FNG|A01, A02, PGND1|
 | | |B02, B01, PGND2|
 |TB6612FNG|ESP32|VCC(20) - 2|
-| | |PWMA(23) - IO22|
+| | |PWM(23) - IO22|
 | | |AIN1(21) - IO23|
 | | |AIN2(22) - IO25|
 | | |PWMB(15) - IO26|
