@@ -6,7 +6,7 @@ Esse repositório PÚBLICO tem o objetivo de guardar datasheets importantes sobr
 
 Sujeita a mudanças:
 
-|Quantidade|Componente|Conexão|Portas(n°)|Descrição|
+|Quantidade|Componente|Conexão no Esp32|Portas(n°)|Descrição|
 |:----|:----|:----|:----|:----|
 |1|ESP32 DEVKIT V1 - DOIT|Motor|IO 14/15/16/17| |
 | | |Ponte H TB6612FNG|2 - VCC(20)| |
