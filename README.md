@@ -8,7 +8,8 @@ Sujeita a mudanças:
 
 |Quantidade|Componente|Conexão no Esp32|Portas(n°)|Descrição|
 |:----|:----|:----|:----|:----|
-|1|ESP32 DEVKIT V1 - DOIT|Motor|IO 14/15/16/17| |
+|1|ESP32 DEVKIT V1 - DOIT|Motor|A01, A02, PGND1| |
+| | | |B02, B01, PGND2| |
 | | |Ponte H TB6612FNG|2 - VCC(20)| |
 | | | |IO22 - PWMA(23)| |
 | | | |IO23 - AIN1(21)| |
@@ -23,9 +24,9 @@ Sujeita a mudanças:
 | | | |IO23 - MOSI| |
 | | | |IO18 - SCK| |
 | | | |IO19 - MISO| |
-|1|Micro motor 6V 200 RPM Low Power|ESP32|IO 14/15/16/17| |
-|2|Par de Encoders Magnéticos com entrada lateral|TB6612FNG|A01, A02, PGND1| |
+|2|Micro motor 6V 200 RPM Low Power|ESP32|A01, A02, PGND1| |
 | | | |B02, B01, PGND2| |
+|2|Par de Encoders Magnéticos com entrada lateral|ESP32|IO 14/15/16/17| |
 |1|Ponte H TB6612FNG|ESP32|VCC(20) - 2| |
 | | | |PWMA(23) - IO22| |
 | | | |AIN1(21) - IO23| |
